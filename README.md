@@ -1,6 +1,10 @@
-
 <h1>TravelSage</h1>
-![image](https://github.com/Yuvi110/TravelSage/assets/109853694/9b321954-7596-4d5c-b9ec-d28bd08e871e)
+
+![image](https://github.com/Yuvi110/TravelSage/assets/109853694/809a586d-ae16-46f3-93f1-57aa1398e5d6)
+
+![Screenshot 2023-11-02 213145](https://github.com/Yuvi110/TravelSage/assets/109853694/e6b7ac2d-db9e-43bc-9a82-28ef53f8998d)
+
+
 
 <h1>Introduction</h1>
 An admin-facing solution designed to streamline the management of rooms in a hotel. This web application provides a comprehensive set of features to help hotel administrators efficiently handle room bookings, pricing, and guest interactions. With a user-friendly interface, the system offers a seamless experience for hotel staff, ensuring that rooms are booked and managed with ease.
